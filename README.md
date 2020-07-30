@@ -1,4 +1,4 @@
-# IBM-AI-Engineering
+# IBM AI Engineering Professional Certificate (Coursera)
 
 ## Courses
 1. [Machine Learning with Python](/Machine%20Learning%20with%20Python)
